@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-backintime"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS component - part of multi-repository architecture"
+
+[lib]
+name = "backintime"
+path = "src/lib.rs"
