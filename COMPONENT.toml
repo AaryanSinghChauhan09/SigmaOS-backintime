@@ -3,7 +3,7 @@ name = "SigmaOS-backintime"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "backintime component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
